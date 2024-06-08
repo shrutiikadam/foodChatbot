@@ -18,3 +18,11 @@ The Chatbot-Based Food Ordering System is an interactive application that allows
 - **Chatbot**: Text and voice recognition integration
 - **Email Service**: For sending offers and other notifications
 
+## To run the application 
+
+- **step1**: python -m venv venv_name
+- **step2**: cd venv\Scripts\activate
+- **step3**: pip install -r requirements
+- **step4**: come outof venv and goto the path where your app.py is , i.e cd.. then cd app
+- **step5**: python app.py 
+
